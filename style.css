@@ -1,0 +1,22 @@
+@charset "UTF-8";
+
+
+.logo{
+    height: 68px;
+    width: 68px;
+}
+.cor{
+    background: black;
+}
+.btn{
+    background: black;
+    color: white;
+}
+body{
+    background: white;
+}
+
+.escudo img{
+    height: 200px;
+    width: 200px;
+}
